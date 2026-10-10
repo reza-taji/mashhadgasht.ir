@@ -1,0 +1,182 @@
+[
+  {
+    "id": "imam-reza",
+    "category": "shrine",
+    "image": "/images/shrine.webp",
+    "coordinates": [
+      36.2879,
+      59.6157
+    ],
+    "title": "Imam Reza Holy Shrine",
+    "excerpt": "The serene heart of the city. Discover magnificent architecture and meaningful moments of pilgrimage.",
+    "address": "Mashhad, Imam Reza Shrine",
+    "tagIds": [
+      "free",
+      "culture"
+    ],
+    "tags": [
+      "Pilgrimage",
+      "History & culture"
+    ]
+  },
+  {
+    "id": "ferdowsi",
+    "category": "heritage",
+    "image": "/images/ferdowsi.webp",
+    "coordinates": [
+      36.4864,
+      59.5174
+    ],
+    "title": "Ferdowsi Mausoleum",
+    "excerpt": "A peaceful garden in Tus, celebrating the poet of the Shahnameh and the enduring spirit of Persian culture.",
+    "address": "Tus, Shahnameh Boulevard",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "History & culture",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "koohsangi",
+    "category": "attractions",
+    "image": "/images/park.webp",
+    "coordinates": [
+      36.2828,
+      59.5713
+    ],
+    "title": "Koohsangi Park",
+    "excerpt": "Slow down, breathe in the fresh air, and discover a different view of Mashhad among rocky hills and gardens.",
+    "address": "Mashhad, Koohsangi Street",
+    "tagIds": [
+      "nature",
+      "family"
+    ],
+    "tags": [
+      "Nature",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "reza-bazaar",
+    "category": "bazaar",
+    "image": "/images/bazaar.webp",
+    "coordinates": [
+      36.2802,
+      59.6153
+    ],
+    "title": "Reza Bazaar",
+    "excerpt": "Saffron scents, turquoise treasures and little keepsakes. Take a piece of Mashhad home from this storied bazaar.",
+    "address": "Mashhad, Beyt ol-Moqaddas Square",
+    "tagIds": [
+      "shopping",
+      "culture"
+    ],
+    "tags": [
+      "Shopping",
+      "History & culture"
+    ]
+  },
+  {
+    "id": "goharshad",
+    "category": "shrine",
+    "image": "/images/mosque.webp",
+    "coordinates": [
+      36.2861,
+      59.6147
+    ],
+    "title": "Goharshad Mosque",
+    "excerpt": "Turquoise tiles and soaring iwans. Explore a remarkable expression of Persian architecture beside the shrine.",
+    "address": "Mashhad, Holy Shrine complex",
+    "tagIds": [
+      "culture",
+      "free"
+    ],
+    "tags": [
+      "History & culture",
+      "Pilgrimage"
+    ]
+  },
+  {
+    "id": "khorasan-museum",
+    "category": "heritage",
+    "image": "/images/museum.webp",
+    "coordinates": [
+      36.2818,
+      59.5699
+    ],
+    "title": "Great Khorasan Museum",
+    "excerpt": "A window into the history, art and everyday life of Khorasan, within the grounds of Koohsangi Park.",
+    "address": "Mashhad, Koohsangi Park",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "History & culture",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "pilgrim-guide",
+    "category": "services",
+    "image": "/images/shrine.webp",
+    "coordinates": [
+      36.2879,
+      59.6157
+    ],
+    "title": "Pilgrim Services Guide",
+    "excerpt": "Get familiar with visitor guidance and facilities around the shrine for a more comfortable journey.",
+    "address": "Mashhad, Holy Shrine area",
+    "tagIds": [
+      "free",
+      "family"
+    ],
+    "tags": [
+      "Pilgrimage",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "tus",
+    "category": "attractions",
+    "image": "/images/ferdowsi.webp",
+    "coordinates": [
+      36.4864,
+      59.5174
+    ],
+    "title": "Historic Tus Walk",
+    "excerpt": "Follow the traces of history and the timeless stories of Khorasan around Ferdowsi’s mausoleum.",
+    "address": "Mashhad, Historic Tus",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "History & culture",
+      "Family-friendly"
+    ]
+  },
+  {
+    "id": "souvenirs",
+    "category": "bazaar",
+    "image": "/images/bazaar.webp",
+    "coordinates": [
+      36.2802,
+      59.6153
+    ],
+    "title": "Souvenirs of Mashhad",
+    "excerpt": "From saffron to handmade crafts, find inspiration for a meaningful keepsake from the city of kindness.",
+    "address": "Mashhad, Reza Bazaar",
+    "tagIds": [
+      "shopping",
+      "family"
+    ],
+    "tags": [
+      "Shopping",
+      "Family-friendly"
+    ]
+  }
+]

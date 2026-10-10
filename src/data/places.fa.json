@@ -1,0 +1,182 @@
+[
+  {
+    "id": "imam-reza",
+    "category": "shrine",
+    "image": "/images/shrine.webp",
+    "coordinates": [
+      36.2879,
+      59.6157
+    ],
+    "title": "حرم مطهر امام رضا (ع)",
+    "excerpt": "اینجا، قلب شهر آرام می‌گیرد. سفری به نور، معماری باشکوه و لحظه‌های ناب زیارت.",
+    "address": "مشهد، حرم مطهر رضوی",
+    "tagIds": [
+      "free",
+      "culture"
+    ],
+    "tags": [
+      "زیارت و آرامش",
+      "تاریخ و فرهنگ"
+    ]
+  },
+  {
+    "id": "ferdowsi",
+    "category": "heritage",
+    "image": "/images/ferdowsi.webp",
+    "coordinates": [
+      36.4864,
+      59.5174
+    ],
+    "title": "آرامگاه حکیم ابوالقاسم فردوسی",
+    "excerpt": "در باغی دل‌انگیز در توس، به دیدار نگهبان زبان فارسی و روایت‌های جاودانه‌ی شاهنامه بروید.",
+    "address": "مشهد، توس، بلوار شاهنامه",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "تاریخ و فرهنگ",
+      "مناسب خانواده"
+    ]
+  },
+  {
+    "id": "koohsangi",
+    "category": "attractions",
+    "image": "/images/park.webp",
+    "coordinates": [
+      36.2828,
+      59.5713
+    ],
+    "title": "بوستان کوهسنگی",
+    "excerpt": "کمی قدم بزنید، هوای تازه نفس بکشید و مشهد را از چشم‌اندازی متفاوت تماشا کنید.",
+    "address": "مشهد، انتهای خیابان کوهسنگی",
+    "tagIds": [
+      "nature",
+      "family"
+    ],
+    "tags": [
+      "طبیعت‌گردی",
+      "مناسب خانواده"
+    ]
+  },
+  {
+    "id": "reza-bazaar",
+    "category": "bazaar",
+    "image": "/images/bazaar.webp",
+    "coordinates": [
+      36.2802,
+      59.6153
+    ],
+    "title": "بازار رضا",
+    "excerpt": "عطر زعفران، رنگ فیروزه و یادگاری‌های کوچک؛ در کوچه‌های این بازار، خاطره‌ای از مشهد پیدا کنید.",
+    "address": "مشهد، میدان بیت‌المقدس",
+    "tagIds": [
+      "shopping",
+      "culture"
+    ],
+    "tags": [
+      "خرید و سوغات",
+      "تاریخ و فرهنگ"
+    ]
+  },
+  {
+    "id": "goharshad",
+    "category": "shrine",
+    "image": "/images/mosque.webp",
+    "coordinates": [
+      36.2861,
+      59.6147
+    ],
+    "title": "مسجد گوهرشاد",
+    "excerpt": "آبیِ کاشی‌ها و شکوه ایوان‌ها؛ شاهکاری از هنر و معماری ایرانی در همسایگی حرم.",
+    "address": "مشهد، مجموعه حرم مطهر",
+    "tagIds": [
+      "culture",
+      "free"
+    ],
+    "tags": [
+      "تاریخ و فرهنگ",
+      "زیارت و آرامش"
+    ]
+  },
+  {
+    "id": "khorasan-museum",
+    "category": "heritage",
+    "image": "/images/museum.webp",
+    "coordinates": [
+      36.2818,
+      59.5699
+    ],
+    "title": "موزه بزرگ خراسان",
+    "excerpt": "پنجره‌ای به هزاران سال تاریخ، هنر و زندگی در خراسان؛ در دل بوستان کوهسنگی.",
+    "address": "مشهد، بوستان کوهسنگی",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "تاریخ و فرهنگ",
+      "مناسب خانواده"
+    ]
+  },
+  {
+    "id": "pilgrim-guide",
+    "category": "services",
+    "image": "/images/shrine.webp",
+    "coordinates": [
+      36.2879,
+      59.6157
+    ],
+    "title": "راهنمای خدمات زائر",
+    "excerpt": "برای سفری آسوده‌تر، با خدمات راهنمایی و امکانات پیرامون حرم آشنا شوید.",
+    "address": "مشهد، پیرامون حرم مطهر",
+    "tagIds": [
+      "free",
+      "family"
+    ],
+    "tags": [
+      "زیارت و آرامش",
+      "مناسب خانواده"
+    ]
+  },
+  {
+    "id": "tus",
+    "category": "attractions",
+    "image": "/images/ferdowsi.webp",
+    "coordinates": [
+      36.4864,
+      59.5174
+    ],
+    "title": "گشتی در شهر تاریخی توس",
+    "excerpt": "در حوالی آرامگاه فردوسی، ردپای تاریخ و داستان‌های کهن خراسان را دنبال کنید.",
+    "address": "مشهد، منطقه تاریخی توس",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "تاریخ و فرهنگ",
+      "مناسب خانواده"
+    ]
+  },
+  {
+    "id": "souvenirs",
+    "category": "bazaar",
+    "image": "/images/bazaar.webp",
+    "coordinates": [
+      36.2802,
+      59.6153
+    ],
+    "title": "سوغات و یادگاری‌های مشهد",
+    "excerpt": "از زعفران تا صنایع‌دستی؛ پیشنهادهایی برای انتخاب یادگاری از سفر به شهر مهربانی.",
+    "address": "مشهد، بازار رضا",
+    "tagIds": [
+      "shopping",
+      "family"
+    ],
+    "tags": [
+      "خرید و سوغات",
+      "مناسب خانواده"
+    ]
+  }
+]

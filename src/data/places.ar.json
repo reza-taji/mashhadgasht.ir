@@ -1,0 +1,182 @@
+[
+  {
+    "id": "imam-reza",
+    "category": "shrine",
+    "image": "/images/shrine.webp",
+    "coordinates": [
+      36.2879,
+      59.6157
+    ],
+    "title": "حرم الإمام الرضا (ع)",
+    "excerpt": "هنا يسكن قلب المدينة. رحلة إلى النور وروعة العمارة ولحظات الزيارة الهادئة.",
+    "address": "مشهد، الحرم الرضوي المطهر",
+    "tagIds": [
+      "free",
+      "culture"
+    ],
+    "tags": [
+      "زيارة وسكينة",
+      "تاريخ وثقافة"
+    ]
+  },
+  {
+    "id": "ferdowsi",
+    "category": "heritage",
+    "image": "/images/ferdowsi.webp",
+    "coordinates": [
+      36.4864,
+      59.5174
+    ],
+    "title": "ضريح أبي القاسم الفردوسي",
+    "excerpt": "في حديقة جميلة بطوس، اكتشف إرث شاعر الشاهنامة وحكاياته الخالدة.",
+    "address": "مشهد، طوس، شارع الشاهنامة",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "تاريخ وثقافة",
+      "مناسب للعائلات"
+    ]
+  },
+  {
+    "id": "koohsangi",
+    "category": "attractions",
+    "image": "/images/park.webp",
+    "coordinates": [
+      36.2828,
+      59.5713
+    ],
+    "title": "منتزه كوهسنغي",
+    "excerpt": "تمشَّ قليلاً واستنشق الهواء النقي وشاهد مشهد من منظور مختلف بين الصخور والحدائق.",
+    "address": "مشهد، نهاية شارع كوهسنغي",
+    "tagIds": [
+      "nature",
+      "family"
+    ],
+    "tags": [
+      "طبيعة",
+      "مناسب للعائلات"
+    ]
+  },
+  {
+    "id": "reza-bazaar",
+    "category": "bazaar",
+    "image": "/images/bazaar.webp",
+    "coordinates": [
+      36.2802,
+      59.6153
+    ],
+    "title": "سوق الرضا",
+    "excerpt": "عطر الزعفران وألوان الفيروز وهدايا صغيرة؛ احتفظ بذكرى جميلة من مشهد في هذا السوق.",
+    "address": "مشهد، ساحة بيت المقدس",
+    "tagIds": [
+      "shopping",
+      "culture"
+    ],
+    "tags": [
+      "تسوق وهدايا",
+      "تاريخ وثقافة"
+    ]
+  },
+  {
+    "id": "goharshad",
+    "category": "shrine",
+    "image": "/images/mosque.webp",
+    "coordinates": [
+      36.2861,
+      59.6147
+    ],
+    "title": "مسجد جوهرشاد",
+    "excerpt": "زرقة البلاط وروعة الإيوانات؛ تحفة من الفن والعمارة الإيرانية بجوار الحرم.",
+    "address": "مشهد، مجمع الحرم الرضوي",
+    "tagIds": [
+      "culture",
+      "free"
+    ],
+    "tags": [
+      "تاريخ وثقافة",
+      "زيارة وسكينة"
+    ]
+  },
+  {
+    "id": "khorasan-museum",
+    "category": "heritage",
+    "image": "/images/museum.webp",
+    "coordinates": [
+      36.2818,
+      59.5699
+    ],
+    "title": "متحف خراسان الكبير",
+    "excerpt": "نافذة على تاريخ خراسان وفنونها وحياتها عبر العصور، في قلب منتزه كوهسنغي.",
+    "address": "مشهد، منتزه كوهسنغي",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "تاريخ وثقافة",
+      "مناسب للعائلات"
+    ]
+  },
+  {
+    "id": "pilgrim-guide",
+    "category": "services",
+    "image": "/images/shrine.webp",
+    "coordinates": [
+      36.2879,
+      59.6157
+    ],
+    "title": "دليل خدمات الزائر",
+    "excerpt": "تعرّف على خدمات الإرشاد والمرافق حول الحرم لتستمتع برحلة أكثر راحة.",
+    "address": "مشهد، محيط الحرم الرضوي",
+    "tagIds": [
+      "free",
+      "family"
+    ],
+    "tags": [
+      "زيارة وسكينة",
+      "مناسب للعائلات"
+    ]
+  },
+  {
+    "id": "tus",
+    "category": "attractions",
+    "image": "/images/ferdowsi.webp",
+    "coordinates": [
+      36.4864,
+      59.5174
+    ],
+    "title": "جولة في طوس التاريخية",
+    "excerpt": "تتبّع آثار التاريخ وحكايات خراسان القديمة حول ضريح الفردوسي.",
+    "address": "مشهد، منطقة طوس التاريخية",
+    "tagIds": [
+      "culture",
+      "family"
+    ],
+    "tags": [
+      "تاريخ وثقافة",
+      "مناسب للعائلات"
+    ]
+  },
+  {
+    "id": "souvenirs",
+    "category": "bazaar",
+    "image": "/images/bazaar.webp",
+    "coordinates": [
+      36.2802,
+      59.6153
+    ],
+    "title": "هدايا وتذكارات مشهد",
+    "excerpt": "من الزعفران إلى الحرف اليدوية؛ أفكار لاختيار تذكار من رحلتكم إلى مدينة المحبة.",
+    "address": "مشهد، سوق الرضا",
+    "tagIds": [
+      "shopping",
+      "family"
+    ],
+    "tags": [
+      "تسوق وهدايا",
+      "مناسب للعائلات"
+    ]
+  }
+]
